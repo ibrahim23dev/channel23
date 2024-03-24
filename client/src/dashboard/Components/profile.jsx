@@ -1,11 +1,11 @@
 import React from 'react'
 
-function sideBar() {
+function profile() {
   return (
     <div>
-      sideBar
+      profile
     </div>
   )
 }
 
-export default sideBar
+export default profile
